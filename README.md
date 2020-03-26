@@ -1,4 +1,4 @@
-# Arduino - Indulging in a child
+# Arduino - Having fun with a child
 
 Есть готовый оригинальный код для проигрывания мелодии с помощью Arduino и зуммера (toneMelody.ino на create.arduino.cc).
 Эксперименты с ним вызывают у ребенка восторг!
