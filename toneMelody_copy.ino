@@ -1,7 +1,7 @@
 #include "pitches.h"
 
 int melody[] = {
-  NOTE_DS1, NOTE_E5, NOTE_FS5, 0, NOTE_B5
+  DS1, E5, FS5, 0, B5
 };
 
 int noteDurations[] = {
